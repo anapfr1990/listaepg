@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmania.gif|http://www.lineup.tv.br/canais/recordtv-belem.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="REDE RECORD SP HD">
+    <display-name lang="pt">REDE RECORD SP HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-ne.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
